@@ -1,0 +1,50 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "PR_kwDOGILv7s4scIcc",
+      "title": "Product details",
+      "url": "https://github.com/DeepakSaini02/Clone_Snapdeal/pull/4",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2021-09-29T09:52:17Z",
+      "number": 4,
+      "changedFiles": 28,
+      "additions": 8818,
+      "deletions": 144,
+      "baseRepository": {
+        "name": "Clone_Snapdeal",
+        "url": "https://github.com/DeepakSaini02/Clone_Snapdeal",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/91534605?u=7a4d5451a2e1f22146f6ee64c885f0ff5325876a&v=4",
+          "login": "DeepakSaini02",
+          "url": "https://github.com/DeepakSaini02"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzczMDgzMjQz",
+      "title": "Updated validations.py python script.",
+      "url": "https://github.com/google/it-cert-automation-practice/pull/157",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-02-10T11:29:01Z",
+      "number": 157,
+      "changedFiles": 1,
+      "additions": 7,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "it-cert-automation-practice",
+        "url": "https://github.com/google/it-cert-automation-practice",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4",
+          "login": "google",
+          "url": "https://github.com/google"
+        }
+      }
+    }
+  ],
+  "merged": 0,
+  "open": 2,
+  "totalCount": 2
+}
